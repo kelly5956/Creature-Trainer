@@ -1,0 +1,546 @@
+Last login: Tue Oct  6 22:12:35 on ttys000
+0587393589:~ kellyfischer$ /Users/kellyfischer/Desktop/Creature-Trainer/Creature/DerivedData/Creature/Build/Products/Debug/Creature ; exit;
+Hello, Trainer! Welcome to the world of EECS 183 Creature Trainer!
+In this world, you will encounter many different creatures in battle.
+It is up to you to compete and unravel the mysteries of these creatures.
+The challenge is one that cannot be faced alone. In order to succeed, 
+you must work together with your own team of creatures.
+
+With that, we present your team!
+| *Honeybdgr  13/13 | Narwhal    16/16 | Wolverine  10/10 | Uromastyx  10/10   |
+
+
+During battle, choose from the following for each move:
+'a' to attack.
+'s' and a number to swap to that Creature (ex. s1, s2, s3, s4).
+'r' to rest and regain a little health
+      Creature in your party who are inactive rest every turn.
+
+--------------------------------------------------------------------------------
+Current win count: 0
+
+A new challenger approaches...
+It's an enemy Loris!
+
+--------------------------------------------------------------------------------
+| *Honeybdgr  13/13 | Narwhal    16/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Honeybdgr attacks Enemy Loris     with Hammer  for 4 damage.
+Enemy Loris     attacks Your  Honeybdgr with Cool    for 4 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  9/13 | Narwhal    16/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Honeybdgr attacks Enemy Loris     with Hammer  for 4 damage.
+Enemy Loris     attacks Your  Honeybdgr with Cool    for 4 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  5/13 | Narwhal    16/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy Loris     attacks Your  Narwhal   with Cool    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  11/13 | *Narwhal    12/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Loris     with Cool    for 4 damage.
+Enemy Loris     attacks Your  Narwhal   with Cool    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    8/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Loris     with Cool    for 2 damage.
+Enemy Loris     faints!
+
+You have defeated the Enemy Loris! Congratulations!
+Your party also gets to rest a turn and regains some health.
+
+--------------------------------------------------------------------------------
+Current win count: 1
+
+A new challenger approaches...
+It's an enemy C-lacanth!
+
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    12/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy C-lacanth with Cool    for 4 damage.
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    6/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    10/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | *Narwhal    4/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy C-lacanth attacks Your  Wolverine with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | Narwhal    8/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    12/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | *Narwhal    6/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy C-lacanth attacks Your  Wolverine with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | Narwhal    10/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    14/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | *Narwhal    8/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy C-lacanth with Cool    for 4 damage.
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    2/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    6/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Wolverine swaps in!
+Enemy C-lacanth attacks Your  Wolverine with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | Narwhal    10/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    4/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    8/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Wolverine swaps in!
+Enemy C-lacanth attacks Your  Wolverine with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | Narwhal    12/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | *Narwhal    6/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    10/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  7/13 | *Narwhal    4/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy C-lacanth attacks Your  Wolverine with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  13/13 | Narwhal    8/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Honeybdgr swaps in!
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 12 damage.
+--------------------------------------------------------------------------------
+| *Honeybdgr  1/13 | Narwhal    12/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Honeybdgr attacks Enemy C-lacanth with Hammer  for 2 damage.
+Enemy C-lacanth attacks Your  Honeybdgr with Hammer  for 1 damage.
+Your  Honeybdgr faints!
+--------------------------------------------------------------------------------
+| *Honeybdgr  0/13 | Narwhal    16/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+You must swap to another creature!
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Honeybdgr swaps out, and Narwhal   swaps in!
+Enemy C-lacanth attacks Your  Narwhal   with Hammer  for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    10/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy C-lacanth with Cool    for 2 damage.
+Enemy C-lacanth faints!
+
+You have defeated the Enemy C-lacanth! Congratulations!
+Your party also gets to rest a turn and regains some health.
+
+--------------------------------------------------------------------------------
+Current win count: 2
+
+A new challenger approaches...
+It's an enemy RockHyrax!
+
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    14/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy RockHyrax with Cool    for 4 damage.
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    8/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy RockHyrax with Cool    for 4 damage.
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    2/16 | Wolverine  10/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy RockHyrax attacks Your  Wolverine with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    6/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Uromastyx swaps in!
+Enemy RockHyrax attacks Your  Uromastyx with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    10/16 | Wolverine  9/10 | *Uromastyx  4/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Narwhal   swaps in!
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    4/16 | Wolverine  10/10 | Uromastyx  8/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy RockHyrax attacks Your  Wolverine with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    8/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Uromastyx swaps in!
+Enemy RockHyrax attacks Your  Uromastyx with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    12/16 | Wolverine  9/10 | *Uromastyx  4/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Narwhal   swaps in!
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    6/16 | Wolverine  10/10 | Uromastyx  8/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Wolverine swaps in!
+Enemy RockHyrax attacks Your  Wolverine with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    10/16 | *Wolverine  4/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Narwhal   swaps in!
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    4/16 | Wolverine  9/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Uromastyx swaps in!
+Enemy RockHyrax attacks Your  Uromastyx with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    8/16 | Wolverine  10/10 | *Uromastyx  4/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Wolverine swaps in!
+Enemy RockHyrax attacks Your  Wolverine with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    12/16 | *Wolverine  4/10 | Uromastyx  8/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Wolverine attacks Enemy RockHyrax with Hammer  for 6 damage.
+Enemy RockHyrax attacks Your  Wolverine with Bombast for 4 damage.
+Your  Wolverine faints!
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    16/16 | *Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+You must swap to another creature!
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Wolverine swaps out, and Narwhal   swaps in!
+Enemy RockHyrax attacks Your  Narwhal   with Bombast for 6 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    10/16 | Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy RockHyrax with Cool    for 3 damage.
+Enemy RockHyrax faints!
+
+You have defeated the Enemy RockHyrax! Congratulations!
+Your party also gets to rest a turn and regains some health.
+
+--------------------------------------------------------------------------------
+Current win count: 3
+
+A new challenger approaches...
+It's an enemy Bittern!
+
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    14/16 | Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Bittern   with Cool    for 4 damage.
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    10/16 | Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Bittern   with Cool    for 4 damage.
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    6/16 | Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Uromastyx swaps in!
+Enemy Bittern   attacks Your  Uromastyx with Funk    for 8 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    10/16 | Wolverine  0/10 | *Uromastyx  2/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Narwhal   swaps in!
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    6/16 | Wolverine  0/10 | Uromastyx  6/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Bittern   with Cool    for 4 damage.
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    2/16 | Wolverine  0/10 | Uromastyx  10/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Uromastyx swaps in!
+Enemy Bittern   attacks Your  Uromastyx with Funk    for 8 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    6/16 | Wolverine  0/10 | *Uromastyx  2/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Narwhal   swaps in!
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    2/16 | Wolverine  0/10 | Uromastyx  6/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Narwhal   swaps out, and Uromastyx swaps in!
+Enemy Bittern   attacks Your  Uromastyx with Funk    for 6 damage.
+Your  Uromastyx faints!
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | Narwhal    6/16 | Wolverine  0/10 | *Uromastyx  0/10   |
+--------------------------------------------------------------------------------
+You must swap to another creature!
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Uromastyx swaps out, and Narwhal   swaps in!
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 4 damage.
+--------------------------------------------------------------------------------
+| Honeybdgr  0/13 | *Narwhal    2/16 | Wolverine  0/10 | Uromastyx  0/10   |
+--------------------------------------------------------------------------------
+Trainer, make your move. (a-Attack, s#-Swap to slot #, r-Rest): 
+
+________________________________________________________________________________
+
+Your  Narwhal   attacks Enemy Bittern   with Cool    for 4 damage.
+Enemy Bittern   attacks Your  Narwhal   with Funk    for 2 damage.
+Your  Narwhal   faints!
+
+Sadly, your entire party of creatures has fallen in battle.
+You won 3 battles today.
+
+logout
+
+[Process completed]
+
